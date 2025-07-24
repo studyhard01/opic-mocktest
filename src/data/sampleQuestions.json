@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "question": "Please introduce yourself.",
+    "level": "easy"
+  }
+]
+
+{
+  "id": 2,
+  "question": "What are your strengths and weaknesses?",
+  "level": "medium"
+},
+{
+  "id": 3,
+  "question": "Describe a challenging situation you faced at work and how you handled it.",
+  "level": "hard"
+}
